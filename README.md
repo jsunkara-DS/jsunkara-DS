@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsunkara-ds" alt="jsunkara-ds" /></a> </p>
 
-- 🌱 I’m currently learning **Power BI, Tableau, AWS(Basic)**
-
 - 💬 Ask me about **Data analysis, Python libraries for data Pre-processing and Visualization.**
-
-- 📫 How to reach me **jsunkara@mail.bradley.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
