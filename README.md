@@ -1,19 +1,33 @@
-# README
+# 🚀 GenAI – My Learning Journey
 
-## GenAI and AgenticAI Skills
+Welcome to my GenAI learning journey!
 
-This project includes advanced GenAI capabilities, focusing on generative AI models and their applications.
+## 📚 What I’m Learning
 
-## Getting Started
+### ✅ Core Topics
 
-### Installation
-Instructions to install the project...
+- Fundamentals of LLMs & Generative AI
+- AI Agents and Agentic Workflows
+- Chat over Large Documents using vector stores (Qdrant, PGVector, Pinecone)
+- Retrieval-Augmented Generation (RAG)
+- Memory-aware Agents with Graph DBs (Neo4j)
+- Multi-modal LLM Applications
+- Secure and Controlled AI Workflows (Llama-3, Guardrails, MCP)
+- Fine-tuning and Evaluation Techniques
 
-### Usage
-Instructions on how to use the project...
+### ✅ Frameworks, Tools & Tech Stack
 
-## Contributing
-If you wish to contribute to this project, please follow the guidelines...
+- **Languages**: Python, JavaScript
+- **Frameworks**: LangChain, LangGraph, LangSmit
+- **Tracing/Monitoring**: Langfuse (Docker)
+- **Vector Stores**: PGVector, Qdrant, Pinecone
+- **Graph DB**: Neo4j
+- **Deployment**: MCP Server, AWS
+- **LLMs**: OpenAI, Claude, DeepSeek, Gemini, Llama-3, Gemma
+---
 
-## License
-This project is licensed under the MIT License.
+## 🙋‍♂️ About Me
+
+Hi, I’m Jaswanth! I’m a developer passionate about AI, product-building, and learning in public.
+
+## 📬 Suggestions / Ideas? Always happy to chat, collaborate, or brainstorm ideas 💬
